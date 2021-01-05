@@ -1,8 +1,6 @@
-# Teste_Front-End
-
-<h3 align="center">
+<h2 align="center">
     Rango Rápido!
-</h3>
+</h2>
 
 <h3 align="center">
     <img alt="Hamburger" title="#Hamburger" width=80px src="./public/hambicon.svg" />
@@ -16,36 +14,32 @@
   </a>
 </p>
 
-### Web
+## Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="demo1" title="#demo1" src="https://github.com/mateusloubach/teste-front-end/blob/main/.github/prints/print1.png" width="400px"> <br>
+  <img alt="demo1" title="#demo1" src="https://github.com/mateusloubach/teste-front-end/blob/main/.github/prints/print1.png" width="600px"> <br>
 
-  <img alt="demo2" title="#demo2" src="https://github.com/mateusloubach/teste-front-end/blob/main/.github/prints/print2.png" width="400px">
+  <img alt="demo2" title="#demo2" src="https://github.com/mateusloubach/teste-front-end/blob/main/.github/prints/print2.png" width="600px"> <br>
+
+  <img alt="demo3" title="#demo3" src="https://github.com/mateusloubach/teste-front-end/blob/main/.github/prints/print3.png" width="600px"> <br>
 </p>
 
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Javascript] [javascript]
-- [React] [reactjs]
-
+- [Javascript](https://www.javascript.com/)
+- [ReactJS](https://reactjs.org/)
 
 ## 🚀 Como executar o projeto
 
-Podemos considerar este projeto como sendo divido em ~~três partes~~ uma parte:
-1. ~~Back End (pasta server)~~ 
-2. Front End (pasta web) - Este teste foi necessário **apenas** o front-end para demonstração.
-3. ~~Mobile (pasta mobile)~~
-
-💡Tanto o Front End quanto o Mobile precisam que o Back End esteja sendo executado para funcionar.
+1. Front End (pasta web) - Este teste foi necessário **apenas** o front-end para demonstração.
 
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [react.js][reactjs]. 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode] ou [Atom][atom]
+[Git](https://git-scm.com), [react.js](https://reactjs.org/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) ou [Atom](https://atom.io/)
 
 
 ### 🧭 Rodando a aplicação web (Front End)
