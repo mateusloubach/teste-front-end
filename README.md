@@ -18,9 +18,7 @@
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="demo1" title="#demo1" src="https://github.com/mateusloubach/teste-front-end/blob/main/.github/prints/print1.png" width="600px"> <br>
-
   <img alt="demo2" title="#demo2" src="https://github.com/mateusloubach/teste-front-end/blob/main/.github/prints/print2.png" width="600px"> <br>
-
   <img alt="demo3" title="#demo3" src="https://github.com/mateusloubach/teste-front-end/blob/main/.github/prints/print3.png" width="600px"> <br>
 </p>
 
