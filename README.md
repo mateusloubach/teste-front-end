@@ -1,9 +1,9 @@
-<h2 align="center">
+<h1 align="center">
     Rango Rápido!
-</h2>
+</h1>
 
 <h3 align="center">
-    <img alt="Hamburger" title="#Hamburger" width=80px src="./public/hambicon.svg" />
+    <img alt="Hamburger" title="#Hamburger" width=100px src="./public/hambicon.svg" />
 </h3>
 
 <p align="center">
@@ -36,7 +36,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [react.js](https://reactjs.org/). 
+[Git](https://git-scm.com), [ReactJS](https://reactjs.org/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) ou [Atom](https://atom.io/)
 
 
