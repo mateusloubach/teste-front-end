@@ -58,4 +58,4 @@ $ npm start
 # A aplicação será aberta na porta:3000 - acesse http://localhost:3000
 ```
 
-Feito com ❤️ e Javascript por [Mateus Loubach] :wave: (https://www.linkedin.com/in/mateusloubach/)
+Feito com ❤️ e Javascript por :wave: [Mateus Loubach](https://www.linkedin.com/in/mateusloubach/)
